@@ -1,3 +1,3 @@
-zombie survive - Wanted-lab.github.io/zombie.html
+zombie survive - https://wanted-lab.github.io/zombie.html
 
-duck hunt - Wanted-lab.github.io/duck.html
+duck hunt - https://Wanted-lab.github.io/duck.html
